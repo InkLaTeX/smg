@@ -1,0 +1,2 @@
+# smg
+ Servus Mathematica Geometrica.
